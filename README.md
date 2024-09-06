@@ -1,0 +1,1 @@
+# ai-weekly-report-cli
